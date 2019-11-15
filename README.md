@@ -25,3 +25,7 @@ Install python dependencies
 At root,
 `python3 identiy.py` :fire: (Or another .py file)
 
+## Example of output
+### Elon is unknown by design. Squares need to be bigger in future version
+
+![Image of Output](https://github.com/RjDrury/Face_Recog_Example/blob/master/img/identity.jpg)
