@@ -23,5 +23,5 @@ Install python dependencies
 ## Run Application
 
 At root,
-`python3 app.py` :fire:
+`python3 identiy.py` :fire: (Or another .py file)
 
