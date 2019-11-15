@@ -1,7 +1,5 @@
-# Face_Recog_Example
+# Face Recog Example
 Testing the face recognition library
-
-# Face Recognition library exercises
 
 ## Purpose
 
