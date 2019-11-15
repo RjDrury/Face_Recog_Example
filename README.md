@@ -8,6 +8,7 @@ Testing the face recognition library
 ## Requirements
 - Python 3+
 - Cmake
+- Dlib
 
 ## Getting Started
 
