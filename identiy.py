@@ -58,4 +58,4 @@ for (top, right, bottom, left), face_encoding in zip(face_locations, face_encodi
     draw.text((left + 6, bottom - text_height - 5), name, fill=(0, 0, 0))
 del draw
 
-pil_image.show()
+pil_image.save()
